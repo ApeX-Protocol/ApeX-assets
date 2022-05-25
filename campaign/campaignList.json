@@ -1,5 +1,14 @@
 {
-    "popularCampaign": [{
+    "popularCampaign": [
+        {
+            "href": "https://dev-app.apex.exchange/mining",
+            "src": "https://raw.githubusercontent.com/ApeX-Protocol/ApeX-assets/6e61188eaf8db7d27d34ae7968ccd870aa158871/activityPictures/mining.svg",
+            "name": "Mining Event",
+            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
+            "fromDate": "2022-05-19T09:35:00.000Z",
+            "toDate": "2022-05-22T10:40:00.000Z"
+        },
+        {
             "href": "https://app.apex.exchange/trade",
             "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
             "name": "Start-End-Test",
