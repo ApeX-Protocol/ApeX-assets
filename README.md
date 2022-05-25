@@ -5,4 +5,5 @@
 ### 2、assets
 存放token icon
 ### 3、campaign
-rewards center活动轮播配置文件
+当前rewards center活动轮播配置文件
+后期活动需要 可以添加配置文件
