@@ -2,7 +2,7 @@
     "popularCampaign": [
         {
             "href": "https://dev-app.apex.exchange/mining",
-            "src": "https://raw.githubusercontent.com/ApeX-Protocol/ApeX-assets/dev/activityPictures/mining.jpg",
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/mining.jpg",
             "name": "Mining Event",
             "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
             "fromDate": "2022-05-19T09:35:00.000Z",
