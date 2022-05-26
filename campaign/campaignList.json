@@ -2,155 +2,27 @@
     "popularCampaign": [
         {
             "href": "https://dev-app.apex.exchange/mining",
-            "src": "https://raw.githubusercontent.com/ApeX-Protocol/ApeX-assets/dev/activityPictures/mining.jpg",
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/mining.jpg",
             "name": "Mining Event",
             "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
             "fromDate": "2022-05-19T09:35:00.000Z",
             "toDate": "2022-06-22T10:40:00.000Z"
         },
         {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Start-End-Test",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
+            "href": "https://dev-app.apex.exchange/airdrop",
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/airdrop.jpg",
+            "name": "Airdrop Event",
+            "desc": "Check if you are eligible for the Airdrop Bonanza",
             "fromDate": "2022-05-19T09:35:00.000Z",
-            "toDate": "2022-05-22T10:40:00.000Z"
+            "toDate": "2022-06-06T00:00:00.000Z"
         },
         {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Start2-End2-Test2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-05-19T09:47:00.000Z",
-            "toDate": "2022-05-19T10:40:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "UTC-0 TEST",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-05-18T12:40:00.000Z",
-            "toDate": "2022-05-19T07:45:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "EXPIRED TEST3",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-04-12T16:00:00.000Z",
-            "toDate": "2022-04-13T11:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "EXPIRED TEST2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-04-12T16:00:00.000Z",
-            "toDate": "2022-04-18T11:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "EXPIRED TEST",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-04-12T16:00:00.000Z",
-            "toDate": "2022-04-18T10:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Staking2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2021-07-18T16:00:00.000Z",
-            "toDate": "2021-08-18T16:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Staking2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2021-05-21T16:00:00.000Z",
-            "toDate": "2021-06-01T16:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Staking2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2021-04-04T16:00:00.000Z",
-            "toDate": "2021-04-05T16:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Staking2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-04-04T16:00:00.000Z",
-            "toDate": "2022-04-05T16:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Staking2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-05-15T16:00:00.000Z",
-            "toDate": "2022-05-18T16:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Staking2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-05-17T16:00:00.000Z",
-            "toDate": "2022-05-21T16:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Staking2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-05-18T16:00:00.000Z",
-            "toDate": "2022-05-20T16:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Staking2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-07-18T16:00:00.000Z",
-            "toDate": "2022-08-18T16:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Staking2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-05-21T16:00:00.000Z",
-            "toDate": "2022-06-01T16:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Staking2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-05-01T16:00:00.000Z",
-            "toDate": "2022-05-02T16:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Staking2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-04-22T16:00:00.000Z",
-            "toDate": "2022-04-25T16:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/trade",
-            "src": "https://miro.medium.com/max/1400/0*378-RlZSL5u1zc-g",
-            "name": "Staking2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-04-22T16:00:00.000Z",
-            "toDate": "2022-04-25T16:00:00.000Z"
+            "href": "https://dev-app.apex.exchange/airdrop",
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/airdrop.jpg",
+            "name": "Airdrop3 Event",
+            "desc": "Check if you are eligible for the Airdrop Bonanza",
+            "fromDate": "2022-06-19T09:35:00.000Z",
+            "toDate": "2022-07-06T00:00:00.000Z"
         }
     ],
     "campaignByDay": [{
@@ -158,46 +30,6 @@
             "fromDate": "2021-04-04T16:00:00.000Z",
             "toDate": "2021-04-12T16:00:00.000Z",
             "name": "campagin1",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "href": "https://app.apex.exchange/trade"
-        },
-        {
-            "label": "Join",
-            "fromDate": "2021-05-04T16:00:00.000Z",
-            "toDate": "2021-05-18T16:00:00.000Z",
-            "name": "campagin2",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "href": "https://app.apex.exchange/trade"
-        },
-        {
-            "label": "Join",
-            "fromDate": "2021-05-19T16:00:00.000Z",
-            "toDate": "2021-05-21T16:00:00.000Z",
-            "name": "campagin3",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "href": "https://app.apex.exchange/trade"
-        },
-        {
-            "label": "Join Now",
-            "fromDate": "2021-07-04T16:00:00.000Z",
-            "toDate": "2021-09-12T16:00:00.000Z",
-            "name": "campagin4",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "href": "https://app.apex.exchange/trade"
-        },
-        {
-            "label": "Join",
-            "fromDate": "2022-04-04T16:00:00.000Z",
-            "toDate": "2022-04-12T16:00:00.000Z",
-            "name": "campagin5",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "href": "https://app.apex.exchange/trade"
-        },
-        {
-            "label": "Join",
-            "fromDate": "2022-05-04T16:00:00.000Z",
-            "toDate": "2022-05-18T16:00:00.000Z",
-            "name": "campagin6",
             "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
             "href": "https://app.apex.exchange/trade"
         }
