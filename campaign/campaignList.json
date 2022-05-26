@@ -7,6 +7,14 @@
             "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
             "fromDate": "2022-05-19T09:35:00.000Z",
             "toDate": "2022-05-22T10:40:00.000Z"
+        },
+        {
+            "href": "https://dev-app.apex.exchange/airdrop",
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/airdrop.jpg",
+            "name": "Airdrop Event",
+            "desc": "Check if you are eligible for the Airdrop Bonanza",
+            "fromDate": "2022-05-19T09:35:00.000Z",
+            "toDate": "2022-06-06T00:00:00.000Z"
         }
     ],
     "campaignByDay": [{
