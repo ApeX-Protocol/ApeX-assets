@@ -1,5 +1,11 @@
 # ApeX-assets
 
+```
+图片上传至MAIN分支
+活动上传至DEV分支
+```
+
+
 ### 1、activitypictures
 此文件主要存放活动图片
 ### 2、assets
