@@ -1,36 +1,20 @@
 {
     "popularCampaign": [
         {
-            "href": "https://dev-app.apex.exchange/mining",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/mining.jpg",
-            "name": "Mining Event",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "fromDate": "2022-05-19T09:35:00.000Z",
-            "toDate": "2022-06-22T10:40:00.000Z"
+            "href": "https://app.apex.exchange/airdrop",
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-airdrop1.png",
+            "name": "ApeX Airdrop Bonanza",
+            "desc": "APEX PROTOCOL Airdrop Event - Round 1",
+            "fromDate": "2022-04-12T11:00:00.000Z",
+            "toDate": "2022-04-30T16:59:00.000Z"
         },
         {
-            "href": "https://dev-app.apex.exchange/airdrop",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/airdrop.jpg",
-            "name": "Airdrop Event",
-            "desc": "Check if you are eligible for the Airdrop Bonanza",
-            "fromDate": "2022-05-19T09:35:00.000Z",
-            "toDate": "2022-06-06T00:00:00.000Z"
-        },
-        {
-            "href": "https://dev-app.apex.exchange/airdrop",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/airdrop.jpg",
-            "name": "Airdrop3 Event",
-            "desc": "Check if you are eligible for the Airdrop Bonanza",
-            "fromDate": "2022-06-19T09:35:00.000Z",
-            "toDate": "2022-07-06T00:00:00.000Z"
-        },
-         {
-            "href": "https://dev-app.apex.exchange/airdrop",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/airdrop.jpg",
-            "name": "Airdrop3 Event V2",
-            "desc": "Check if you are eligible for the Airdrop Bonanza",
-            "fromDate": "2022-04-19T09:35:00.000Z",
-            "toDate": "2022-05-06T00:00:00.000Z"
+            "href": "https://izumi.finance/farm/one-side",
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-izumi1.png",
+            "name": "Joint Liquidity Mining Pool of APEX/ETH on iZUMi",
+            "desc": "Provide liquidity to Uniswap APEX-ETH pool through iZUMI to share 200k $esAPEX & 300k $IZI",
+            "fromDate": "2022-04-29T00:00:00.000Z",
+            "toDate": "2022-06-30T00:00:00.000Z"
         }
     ],
     "campaignByDay": [{
