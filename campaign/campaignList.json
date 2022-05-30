@@ -1,6 +1,14 @@
 {
     "popularCampaign": [
         {
+            "href": "https://app.apex.exchange/mining",
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/mining.jpg",
+            "name": "ApeX Mining",
+            "desc": "ApeX Mining Event - Round 1",
+            "fromDate": "2022-05-30T11:00:00.000Z",
+            "toDate": "2022-06-10T16:59:00.000Z"
+        },
+        {
             "href": "https://app.apex.exchange/airdrop",
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-airdrop1.png",
             "name": "ApeX Airdrop Bonanza",
