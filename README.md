@@ -1,8 +1,8 @@
 # ApeX-assets
 
 ```
-图片上传至MAIN分支
-活动上传至DEV分支
+Upload your image to MAIN Branch
+Upload your activity to DEV Branch
 ```
 
 
