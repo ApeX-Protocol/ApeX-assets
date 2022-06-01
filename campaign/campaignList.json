@@ -5,7 +5,6 @@
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/reward banner456_236@2x.png",
             "name": "Trade to Mine",
             "desc": "Boost Your Trades & Earn More"
-          
         },
         {
             "href": "https://app.apex.exchange/airdrop",
@@ -34,7 +33,7 @@
             "name": "campagin1",
             "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
             "href": "https://app.apex.exchange/trade"
-        },
+          },
           {
             "label": "Join",
             "fromDate": "2022-04-29T00:00:00.000Z",
