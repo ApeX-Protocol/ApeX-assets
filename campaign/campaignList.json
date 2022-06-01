@@ -8,6 +8,13 @@
             "toDate": "2122-05-30T15:59:00.000Z"
         },
         {
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/reward banner456_236@2x.png",
+            "name": "Trade2 to Mine2",
+            "desc": "Boost Your Trades & Earn More",
+            "fromDate": "2021-10-12T11:00:00.000Z",
+            "toDate": "2021-11-17T15:59:00.000Z"
+        },
+        {
             "href": "https://app.apex.exchange/airdrop",
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-airdrop1.png",
             "name": "ApeX Airdrop Bonanza",
