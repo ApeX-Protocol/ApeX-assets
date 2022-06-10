@@ -8,6 +8,13 @@
             "toDate": "2122-05-30T15:59:00.000Z"
         },
         {
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/reward banner456_236@2x.png",
+            "name": "Trade2 to Mine2",
+            "desc": "Boost Your Trades & Earn More",
+            "fromDate": "2022-10-12T11:00:00.000Z",
+            "toDate": "2022-11-17T15:59:00.000Z"
+        },
+        {
             "href": "https://app.apex.exchange/airdrop",
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-airdrop1.png",
             "name": "ApeX Airdrop Bonanza",
@@ -25,6 +32,17 @@
             "desc": "Provide liquidity to Uniswap APEX-ETH pool through iZUMI to share 200k $esAPEX & 300k $IZI",
             "fromDate": "2022-04-29T00:00:00.000Z",
             "toDate": "2022-06-30T04:00:00.000Z"
+        },
+        {
+            "href": "https://app.apex.exchange/pledge",
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/Apex Trading Brawl-Reward Banner.png",
+            "name": "ApeX Brawl: Trade to Win",
+            "desc": "$5,000 USDT Up for Grabs",
+            "fromDate": "2022-06-10T10:00:00.000Z",
+            "toDate": "2022-06-17T10:00:00.000Z",
+            "claimDeadline": "2022-06-20T10:00:00.000Z",
+            "claimButton": "Claim",
+            "button": "Game On"
         }
     ],
     "campaignByDay": [{
@@ -42,6 +60,14 @@
             "name": "Joint Liquidity Mining Pool of APEX/ETH on iZUMi",
             "desc": "Provide liquidity to Uniswap APEX-ETH pool through iZUMI to share 200k $esAPEX & 300k $IZI",
             "href": "https://izumi.finance/farm/one-side"
-        }        
+          },
+          {
+            "label": "Join",
+            "fromDate": "2022-06-10T10:00:00.000Z",
+            "toDate": "2022-06-17T10:00:00.000Z",
+            "name": "ApeX Brawl: Trade to Win",
+            "desc": "$5,000 USDT Up for Grabs",
+            "href": "https://app.apex.exchange/pledge"
+        }               
     ]
 }
