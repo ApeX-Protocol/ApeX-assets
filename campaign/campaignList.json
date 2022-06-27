@@ -8,6 +8,13 @@
             "toDate": "2122-05-30T15:59:00.000Z"
         },
         {
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-trade-brawl-2.0.png",
+            "name": "ApeX Brawl2.0",
+            "desc": "$5,000 USDT Up for Grabs,trade more to win more!",
+            "fromDate": "2022-06-27T10:00:00.000Z",
+            "toDate": "2022-07-04T10:00:00.000Z"
+        },
+        {
             "href": "https://app.apex.exchange/airdrop",
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-airdrop1.png",
             "name": "ApeX Airdrop Bonanza",
@@ -45,6 +52,14 @@
             "name": "campagin1",
             "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
             "href": "https://app.apex.exchange/trade"
+          },
+          {
+            "label": "Join",
+            "fromDate": "2022-06-27T10:00:00.000Z",
+            "toDate": "2022-07-04T10:00:00.000Z",
+            "name": "ApeX Brawl2.0",
+            "desc": "$5,000 USDT Up for Grabs,trade more to win more!",
+            "href": "https://app.apex.exchange/mining"
           },
           {
             "label": "Join",
