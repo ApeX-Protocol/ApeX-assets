@@ -8,11 +8,13 @@
             "toDate": "2122-05-30T15:59:00.000Z"
         },
         {
+            "href": "https://app.apex.exchange/mining",
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-trade-brawl-2.0.png",
             "name": "ApeX Brawl2.0",
             "desc": "$5,000 USDT Up for Grabs,trade more to win more!",
             "fromDate": "2022-06-27T10:00:00.000Z",
-            "toDate": "2022-07-04T10:00:00.000Z"
+            "toDate": "2022-07-04T10:00:00.000Z",
+            "button": "Join"
         },
         {
             "href": "https://app.apex.exchange/airdrop",
