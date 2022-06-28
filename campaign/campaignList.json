@@ -17,8 +17,8 @@
             "button": "Join"
         },
         {
-            "href": "https://app.apex.exchange/airdrop",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-airdrop1.png",
+            "href": "https://app.apex.exchange/staking",
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/20220627-233806.png",
             "name": "ApeX Staking Program Coming Soon",
             "desc": "Get Ready to Stake $APEX Token! Stay tuned for further details! ",
             "fromDate": "2022-07-01T11:00:00.000Z",
@@ -26,8 +26,8 @@
             "button": "Join"
         },
             {
-            "href": "https://app.apex.exchange/staking",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/20220627-233806.png",
+            "href": "https://app.apex.exchange/airdrop",
+           "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-airdrop1.png",
             "name": "ApeX Airdrop Bonanza",
             "desc": "APEX PROTOCOL Airdrop Event - Round 1",
             "fromDate": "2022-04-12T11:00:00.000Z",
