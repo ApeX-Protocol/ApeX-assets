@@ -105,6 +105,14 @@
             "name": "July Jolly Giveaway",
             "desc": "15,000 $APEX Up for Grabs",
             "href": "https://apexdex.medium.com/july-jolly-giveaway-15-000-apex-up-for-grabs-f58080cbe7c7"
-        }   
+        }   ,
+        {
+            "label": "Join",
+            "fromDate": "2022-07-01T10:00:00.000Z",
+            "toDate": "2022-09-30T10:00:00.000Z",
+            "name": "ApeX Staking Program Coming Soon",
+            "desc": "Get Ready to Stake $APEX Token! Stay tuned for further details!",
+            "href": "https://app.apex.exchange/staking"
+        } 
     ]
 }
