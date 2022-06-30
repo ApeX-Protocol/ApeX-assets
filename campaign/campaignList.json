@@ -113,14 +113,6 @@
             "name": "ApeX Staking Program Coming Soon",
             "desc": "Get Ready to Stake $APEX Token! Stay tuned for further details!",
             "href": "https://app.apex.exchange/staking"
-          },
-          {
-            "label": "Join",
-            "fromDate": "2022-06-30T10:00:00.000Z",
-            "toDate": "2022-07-04T10:00:00.000Z",
-            "name": "ApeX Brawl2.0",
-            "desc": "$5,000 USDT Up for Grabs,trade more to win more!",
-            "href": "https://app.apex.exchange/mining"
           }
     ]
 }
