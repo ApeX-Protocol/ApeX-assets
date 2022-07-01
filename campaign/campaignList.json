@@ -18,9 +18,9 @@
         },
         {
             "href": "https://app.apex.exchange/staking",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/20220627-233806.png",
-            "name": "ApeX Staking Program Coming Soon",
-            "desc": "Get Ready to Stake $APEX Token! Stay tuned for further details! ",
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/staking-online.png",
+            "name": "ApeX Staking Program Now Live",
+            "desc": "Stake $APEX and ApeX LP Tokens now!",
             "fromDate": "2022-07-01T11:00:00.000Z",
             "toDate": "2022-09-30T15:59:00.000Z",
             "button": "Join"
@@ -110,9 +110,9 @@
             "label": "Join",
             "fromDate": "2022-07-01T10:00:00.000Z",
             "toDate": "2022-09-30T10:00:00.000Z",
-            "name": "ApeX Staking Program Coming Soon",
-            "desc": "Get Ready to Stake $APEX Token! Stay tuned for further details!",
+            "name": "ApeX Staking Program Now Live",
+            "desc": "Stake $APEX and ApeX LP Tokens now!",
             "href": "https://app.apex.exchange/staking"
-        } 
+          }
     ]
 }
