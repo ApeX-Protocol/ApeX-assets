@@ -1,12 +1,13 @@
 {
     "popularCampaign": [
         {
-            "href": "https://app.apex.exchange/WSOT",
+            "href": "https://dev-app.apex.exchange/WSOT",
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/game_bg.png",
             "name": "Bybit Wsot大赛",
-            "desc": "Boost Your Trades & Earn More",
-            "fromDate": "2122-04-12T11:00:00.000Z",
-            "toDate": "2122-05-30T15:59:00.000Z"
+            "desc": "Bybit Wsot大赛",
+            "fromDate": "2022-07-01T11:00:00.000Z",
+            "toDate": "2022-09-30T15:59:00.000Z",
+            "button": "Join"
         },
         {
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/reward banner456_236@2x.png",
