@@ -1,6 +1,13 @@
 {
     "popularCampaign": [
         {
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/game_bg.png",
+            "name": "Bybit Wsot大赛",
+            "desc": "Boost Your Trades & Earn More",
+            "fromDate": "2122-04-12T11:00:00.000Z",
+            "toDate": "2122-05-30T15:59:00.000Z"
+        },
+        {
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/reward banner456_236@2x.png",
             "name": "Trade to Mine",
             "desc": "Boost Your Trades & Earn More",
@@ -8,41 +15,13 @@
             "toDate": "2122-05-30T15:59:00.000Z"
         },
         {
-            "href": "https://app.apex.exchange/mining",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-trade-brawl-2.0.png",
-            "name": "ApeX Brawl 2.0",
-            "desc": "$5,000 USDT Up for Grabs,Trade more to win more!",
-            "fromDate": "2022-06-27T10:00:00.000Z",
-            "toDate": "2022-07-04T10:00:00.000Z",
-            "button": "Join"
-        },
-        {
-            "href": "https://app.apex.exchange/staking",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/staking-online.png",
-            "name": "ApeX Staking Program Now Live",
-            "desc": "Stake $APEX and ApeX LP Tokens now!",
-            "fromDate": "2022-07-01T11:00:00.000Z",
-            "toDate": "2022-09-30T15:59:00.000Z",
-            "button": "Join"
-        },
-            {
             "href": "https://app.apex.exchange/airdrop",
-           "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-airdrop1.png",
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-airdrop1.png",
             "name": "ApeX Airdrop Bonanza",
             "desc": "APEX PROTOCOL Airdrop Event - Round 1",
             "fromDate": "2022-04-12T11:00:00.000Z",
             "toDate": "2022-05-30T15:59:00.000Z",
             "claimDeadline": "2022-06-20T16:59:00.000Z",
-            "claimButton": "Claim",
-            "button": "Join"
-        },
-        {
-            "href": "https://apexdex.medium.com/july-jolly-giveaway-15-000-apex-up-for-grabs-f58080cbe7c7",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/20220627-233755.png",
-            "name": "July Jolly Giveaway",
-            "desc": "15,000 $APEX Up for Grabs",
-            "fromDate": "2022-06-27T10:00:00.000Z",
-            "toDate": "2022-07-04T10:00:00.000Z",
             "claimButton": "Claim",
             "button": "Join"
         },
@@ -76,14 +55,6 @@
           },
           {
             "label": "Join",
-            "fromDate": "2022-06-27T10:00:00.000Z",
-            "toDate": "2022-07-04T10:00:00.000Z",
-            "name": "ApeX Brawl2.0",
-            "desc": "$5,000 USDT Up for Grabs,trade more to win more!",
-            "href": "https://app.apex.exchange/mining"
-          },
-          {
-            "label": "Join",
             "fromDate": "2022-04-29T00:00:00.000Z",
             "toDate": "2022-06-30T04:00:00.000Z",
             "name": "Joint Liquidity Mining Pool of APEX/ETH on iZUMi",
@@ -97,22 +68,6 @@
             "name": "ApeX Brawl: Trade to Win",
             "desc": "$5,000 USDT Up for Grabs",
             "href": "https://app.apex.exchange/pledge"
-          },
-          {
-            "label": "Join",
-            "fromDate": "2022-06-27T10:00:00.000Z",
-            "toDate": "2022-07-04T10:00:00.000Z",
-            "name": "July Jolly Giveaway",
-            "desc": "15,000 $APEX Up for Grabs",
-            "href": "https://apexdex.medium.com/july-jolly-giveaway-15-000-apex-up-for-grabs-f58080cbe7c7"
-          },
-          {
-            "label": "Join",
-            "fromDate": "2022-07-01T10:00:00.000Z",
-            "toDate": "2022-09-30T10:00:00.000Z",
-            "name": "ApeX Staking Program Now Live",
-            "desc": "Stake $APEX and ApeX LP Tokens now!",
-            "href": "https://app.apex.exchange/staking"
-          }
+        }               
     ]
 }
