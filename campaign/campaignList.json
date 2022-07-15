@@ -1,14 +1,6 @@
 {
     "popularCampaign": [
-        {
-            "href": "https://dev-app.apex.exchange/WSOT",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/game-bg.png",
-            "name": "Bybit Wsot大赛",
-            "desc": "Bybit Wsot大赛",
-            "fromDate": "2022-07-01T11:00:00.000Z",
-            "toDate": "2022-09-30T15:59:00.000Z",
-            "button": "Join"
-        },
+  
         {
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/reward banner456_236@2x.png",
             "name": "Trade to Mine",
@@ -51,7 +43,7 @@
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/wsotapexlogo.jpg",
             "name": "ApeX & WSOT",
             "desc": "100 ApeX NFTs up for grabs for WSOT 2022 participants. Don't miss out, claim now!",
-            "fromDate": "2022-07-17T10:00:00.000Z",
+            "fromDate": "2022-07-21T10:00:00.000Z",
             "toDate": "2022-07-31T10:00:00.000Z",
             "claimDeadline": "2022-08-01T10:00:00.000Z",
             "claimButton": "Claim",
