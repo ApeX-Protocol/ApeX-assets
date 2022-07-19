@@ -1,79 +1,36 @@
 {
-    "popularCampaign": [
-  
+    "announcement": [
+        {
+            "href": "https://www.bybit.com/en-US/",
+            "content": "Friend invitation event started",
+            "fromTimestamp": "1658160000",
+            "toTimestamp": "1671379200"
+        },
+        {
+            "href": "apex://assetsRecord",
+            "content": "Boost Your Trades & Earn More",
+            "fromTimestamp": "1658160000",
+            "toTimestamp": "1671379200"
+        }
+    ],
+    "banner": [
         {
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/reward banner456_236@2x.png",
-            "name": "Trade to Mine",
-            "desc": "Boost Your Trades & Earn More",
-            "fromDate": "2122-04-12T11:00:00.000Z",
-            "toDate": "2122-05-30T15:59:00.000Z"
+            "href": "apex://home",
+            "fromTimestamp": "1658160000",
+            "toTimestamp": "1671379200"
         },
         {
-            "href": "https://app.apex.exchange/airdrop",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-airdrop1.png",
-            "name": "ApeX Airdrop Bonanza",
-            "desc": "APEX PROTOCOL Airdrop Event - Round 1",
-            "fromDate": "2022-04-12T11:00:00.000Z",
-            "toDate": "2022-05-30T15:59:00.000Z",
-            "claimDeadline": "2022-06-20T16:59:00.000Z",
-            "claimButton": "Claim",
-            "button": "Join"
-        },
-        {
-            "href": "https://izumi.finance/farm/uni/one-side",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-izumi1.png",
-            "name": "Joint Liquidity Mining Pool of APEX/ETH on iZUMi",
-            "desc": "Provide liquidity to Uniswap APEX-ETH pool through iZUMI to share 200k $esAPEX & 300k $IZI",
-            "fromDate": "2022-04-29T00:00:00.000Z",
-            "toDate": "2022-06-30T04:00:00.000Z"
-        },
-        {
-            "href": "https://app.apex.exchange/pledge",
-            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/Apex Trading Brawl-Reward Banner.png",
-            "name": "ApeX Brawl: Trade to Win",
-            "desc": "$5,000 USDT Up for Grabs",
-            "fromDate": "2022-07-10T10:00:00.000Z",
-            "toDate": "2022-07-17T10:00:00.000Z",
-            "claimDeadline": "2022-06-20T10:00:00.000Z",
-            "claimButton": "Claim",
-            "button": "Game On"
-        },
-               {
-            "href": "https://app.apex.exchange/WSOT",
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/wsotapexlogo.jpg",
-            "name": "ApeX & WSOT",
-            "desc": "100 ApeX NFTs up for grabs for WSOT 2022 participants. Don't miss out, claim now!",
-            "fromDate": "2022-07-21T10:00:00.000Z",
-            "toDate": "2022-07-31T10:00:00.000Z",
-            "claimDeadline": "2022-08-01T10:00:00.000Z",
-            "claimButton": "Claim",
-            "button": "Claim Now"
+            "href": "apex://home",
+            "fromTimestamp": "1658160000",
+            "toTimestamp": "1671379200"
+        },
+        {
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-airdrop1.png",
+            "href": "apex://home",
+            "fromTimestamp": "1658160000",
+            "toTimestamp": "1671379200"
         }
-     
-    ],
-    "campaignByDay": [{
-            "label": "Join",
-            "fromDate": "2021-04-04T16:00:00.000Z",
-            "toDate": "2021-04-12T16:00:00.000Z",
-            "name": "campagin1",
-            "desc": "Stake your tokens to receive rewards in PERP and a portion of transaction",
-            "href": "https://app.apex.exchange/trade"
-          },
-          {
-            "label": "Join",
-            "fromDate": "2022-04-29T00:00:00.000Z",
-            "toDate": "2022-06-30T04:00:00.000Z",
-            "name": "Joint Liquidity Mining Pool of APEX/ETH on iZUMi",
-            "desc": "Provide liquidity to Uniswap APEX-ETH pool through iZUMI to share 200k $esAPEX & 300k $IZI",
-            "href": "https://izumi.finance/farm/uni/one-side"
-          },
-          {
-            "label": "Join",
-            "fromDate": "2022-07-10T10:00:00.000Z",
-            "toDate": "2022-07-17T10:00:00.000Z",
-            "name": "ApeX Brawl: Trade to Win",
-            "desc": "$5,000 USDT Up for Grabs",
-            "href": "https://app.apex.exchange/pledge"
-        }               
     ]
 }
