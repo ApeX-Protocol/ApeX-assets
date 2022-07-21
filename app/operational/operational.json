@@ -7,7 +7,7 @@
             "toTimestamp": 1671379200
         },
         {
-            "href": "apex://assetsRecord",
+            "href": "https://www.bybit.com/en-US/",
             "content": "Boost Your Trades & Earn More",
             "fromTimestamp": 1658160000,
             "toTimestamp": 1671379200
@@ -16,19 +16,19 @@
     "banner": [
         {
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/reward banner456_236@2x.png",
-            "href": "apex://home",
+            "href": "https://www.bybit.com/en-US/",
             "fromTimestamp": 1658160000,
             "toTimestamp": 1671379200
         },
         {
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/wsotapexlogo.jpg",
-            "href": "apex://home",
+            "href": "https://www.bybit.com/en-US/",
             "fromTimestamp": 1658160000,
             "toTimestamp": 1671379200
         },
         {
             "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-airdrop1.png",
-            "href": "apex://home",
+            "href": "https://www.bybit.com/en-US/",
             "fromTimestamp": 1658160000,
             "toTimestamp": 1671379200
         }
