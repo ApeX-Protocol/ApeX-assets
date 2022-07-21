@@ -1,0 +1,36 @@
+{
+    "announcement": [
+        {
+            "href": "https://www.bybit.com/en-US/",
+            "content": "Friend invitation event started",
+            "fromTimestamp": 1658160000,
+            "toTimestamp": 1671379200
+        },
+        {
+            "href": "apex://assetsRecord",
+            "content": "Boost Your Trades & Earn More",
+            "fromTimestamp": 1658160000,
+            "toTimestamp": 1671379200
+        }
+    ],
+    "banner": [
+        {
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/reward banner456_236@2x.png",
+            "href": "apex://home",
+            "fromTimestamp": 1658160000,
+            "toTimestamp": 1671379200
+        },
+        {
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/wsotapexlogo.jpg",
+            "href": "apex://home",
+            "fromTimestamp": 1658160000,
+            "toTimestamp": 1671379200
+        },
+        {
+            "src": "https://apex-protocol.github.io/ApeX-assets/activityPictures/456-236-airdrop1.png",
+            "href": "apex://home",
+            "fromTimestamp": 1658160000,
+            "toTimestamp": 1671379200
+        }
+    ]
+}
