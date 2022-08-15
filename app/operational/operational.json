@@ -1,35 +1,17 @@
 {
     "announcement": [
         {
-            "href": "https://www.bybit.com/en-US/",
+            "href": "https://apex-pro.gitbook.io/apex-pro/",
             "content": "Friend invitation event started",
             "fromTimestamp": 1658160000,
             "toTimestamp": 1671379200
         },
-        {
-            "href": "https://www.bybit.com/en-US/",
-            "content": "Boost Your Trades & Earn More",
-            "fromTimestamp": 1658160000,
-            "toTimestamp": 1671379200
-        }
     ],
     "bannerRatio": 3.56,
     "banner": [
         {
             "src": "http://rewmr0qjd.hd-bkt.clouddn.com/illustration_social_feature.png",
-            "href": "https://www.bybit.com/en-US/",
-            "fromTimestamp": 1658160000,
-            "toTimestamp": 1671379200
-        },
-        {
-            "src": "http://rewmr0qjd.hd-bkt.clouddn.com/illustration_social_feature.png",
-            "href": "https://www.bybit.com/en-US/",
-            "fromTimestamp": 1658160000,
-            "toTimestamp": 1671379200
-        },
-        {
-            "src": "http://rewmr0qjd.hd-bkt.clouddn.com/illustration_social_feature.png",
-            "href": "https://www.bybit.com/en-US/",
+            "href": "apexapp://page/main/market?tab=1",
             "fromTimestamp": 1658160000,
             "toTimestamp": 1671379200
         }
