@@ -2,7 +2,7 @@
     "announcement":
     [
         {
-            "href": "https://apex-pro.gitbook.io/apex-pro/",
+            "href": "apexapp://page/web?url=https://apex-pro.gitbook.io/apex-pro/",
             "content": "Friend invitation event started",
             "fromTimestamp": 1658160000,
             "toTimestamp": 1671379200
