@@ -1,14 +1,16 @@
 {
-    "announcement": [
+    "announcement":
+    [
         {
             "href": "https://apex-pro.gitbook.io/apex-pro/",
             "content": "Friend invitation event started",
             "fromTimestamp": 1658160000,
             "toTimestamp": 1671379200
-        },
+        }
     ],
     "bannerRatio": 3.56,
-    "banner": [
+    "banner":
+    [
         {
             "src": "http://rewmr0qjd.hd-bkt.clouddn.com/illustration_social_feature.png",
             "href": "apexapp://page/main/market?tab=1",
