@@ -6,11 +6,23 @@
             "content": "ApeX has launched App, learn more",
             "fromTimestamp": 1658160000,
             "toTimestamp": 1671379200
+        },
+        {
+            "href": "apexapp://page/web?url=https://apex-pro.gitbook.io/apex-pro/",
+            "content": "ApeX has launched App, learn more",
+            "fromTimestamp": 1658160000,
+            "toTimestamp": 1671379200
         }
     ],
     "bannerRatio": 3.56,
     "banner":
     [
+        {
+            "src": "https://l2dex-image-static.dev.apexplus.exchange/banner/202208/cbcd6567e76f49619a77e65c93d68e31.png",
+            "href": "apexapp://page/coming",
+            "fromTimestamp": 1658160000,
+            "toTimestamp": 1671379200
+        },
         {
             "src": "https://l2dex-image-static.dev.apexplus.exchange/banner/202208/cbcd6567e76f49619a77e65c93d68e31.png",
             "href": "apexapp://page/coming",
