@@ -19,11 +19,13 @@
         }
     ],
     "referralRatio": 3.56,
-    "referral":
-    {
-        "src": "https://static-pro.apex.exchange/banner/202210/3973ea2dff2e4504b2c297b4828d6d7c.png",
-        "href": "apexapp://page/referral",
-        "fromTimestamp": 1658160000,
-        "toTimestamp": 1671379200
-    }
+    "referralBanner":
+    [
+        {
+            "src": "https://static-pro.apex.exchange/banner/202210/3973ea2dff2e4504b2c297b4828d6d7c.png",
+            "href": "apexapp://page/referral",
+            "fromTimestamp": 1658160000,
+            "toTimestamp": 1671379200
+        }
+    ]
 }
